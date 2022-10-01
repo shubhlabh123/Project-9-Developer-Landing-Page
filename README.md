@@ -20,7 +20,7 @@
      
 ---
 
-## Time taken to finish this project(including adding media queries)⏲
+## Time taken to finish this project(including adding media queries)<img class=" ls-is-cached lazyloaded" src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/timer-clock_23f2-fe0f.png" data-src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/timer-clock_23f2-fe0f.png" data-srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/timer-clock_23f2-fe0f.png 2x" alt="Timer Clock on Microsoft Teams " width="40" height="40" srcset="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/timer-clock_23f2-fe0f.png 2x">
 
 - >Arouund 10 hours. Made lots of trials and errors initally.
 
