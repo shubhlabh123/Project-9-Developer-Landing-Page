@@ -22,8 +22,8 @@
 
 ## Time taken to finish this project(including adding media queries)⏲
 
-- >Arouund 10 hours. Made lots of mistakes initally.
+- >Arouund 10 hours. Made lots of trials and errors initally.
 
 #### Screenshot
 
-![Desktop](./screenshot/Project-9.png)
+![Desktop](./9.png)
