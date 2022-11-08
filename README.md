@@ -11,7 +11,7 @@
 # Live Project 9 : Developer Landing Page
 
 ## Project 9: (Mobile Responsive)
-[Live Link](https://developersomulanding.netlify.app/)
+[Live Link](https://project-9-developer-landing-page-kynd.vercel.app/)
 
 -   Skills Gained in this project.
     - Learned various flexbox properties.
